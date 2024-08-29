@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Banker", "Banker\Banker.vcxproj", "{490E736D-C489-4BB3-8D63-D9D65296741D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhatHienTacNghen", "PhatHienTacNghen\PhatHienTacNghen.vcxproj", "{7A2C38C6-DFBA-4F35-8B1B-55739E64CDC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490E736D-C489-4BB3-8D63-D9D65296741D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{490E736D-C489-4BB3-8D63-D9D65296741D}.Debug|Win32.Build.0 = Debug|Win32
+		{490E736D-C489-4BB3-8D63-D9D65296741D}.Release|Win32.ActiveCfg = Release|Win32
+		{490E736D-C489-4BB3-8D63-D9D65296741D}.Release|Win32.Build.0 = Release|Win32
+		{7A2C38C6-DFBA-4F35-8B1B-55739E64CDC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A2C38C6-DFBA-4F35-8B1B-55739E64CDC4}.Debug|Win32.Build.0 = Debug|Win32
+		{7A2C38C6-DFBA-4F35-8B1B-55739E64CDC4}.Release|Win32.ActiveCfg = Release|Win32
+		{7A2C38C6-DFBA-4F35-8B1B-55739E64CDC4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
